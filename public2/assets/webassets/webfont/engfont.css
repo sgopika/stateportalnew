@@ -1,0 +1,36 @@
+.home-product-list .list-title {
+	position: relative;
+	margin-bottom: 24px;
+	padding-bottom: 12px;
+	border-bottom: 1px solid #e5e5e5;
+	color: #232323;
+	font-size: 16px;
+	font-weight: 600
+}
+
+.articlebrief{
+	font-size: 0.9rem !important;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+.home-product-list .single-list .list-info h3 a {
+	font-size: 14px;
+	font-weight: 500;
+	color: #5D6DBF
+}
+
+.shortintro{
+	font-size: 0.9rem !important;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+.dailyalert{
+	font-size: 18px;
+}
+
+.dailalertts{
+	color:#333333;
+	font-weight: 400;
+	} 

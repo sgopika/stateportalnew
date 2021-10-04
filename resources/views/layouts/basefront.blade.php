@@ -1,0 +1,8 @@
+@include('layouts.htmlheader')
+@include('layouts.webnavheader')
+         @yield('content')
+@include('layouts.sectionfooter')
+@include('layouts.jsfooter')
+@include('layouts.scriptfooter')
+         @yield('customscripts')
+@include('layouts.htmlfooter')

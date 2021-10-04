@@ -1,0 +1,112 @@
+.homepage{
+    min-height: calc(90vh - 40px) ;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.cardwidget {
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    margin-bottom: 30px;
+    box-shadow: 0 0.46875rem 2.1875rem rgba(90,97,105,0.1), 0 0.9375rem 1.40625rem rgba(90,97,105,0.1), 0 0.25rem 0.53125rem rgba(90,97,105,0.12), 0 0.125rem 0.1875rem rgba(90,97,105,0.1);
+}
+
+
+.cardwidget .cardwidget-statistic-3 .cardwidget-icon-large .fas, .cardwidget .cardwidget-statistic-3 .cardwidget-icon-large .far, .cardwidget .cardwidget-statistic-3 .cardwidget-icon-large .fab, .cardwidget .cardwidget-statistic-3 .cardwidget-icon-large .fal {
+    font-size: 110px;
+}
+
+.cardwidget .cardwidget-statistic-3 .cardwidget-icon {
+    text-align: center;
+    line-height: 50px;
+    margin-left: 15px;
+    color: #000;
+    position: absolute;
+    right: -5px;
+    top: 20px;
+    opacity: 0.1;
+}
+
+.footerrow {
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(65, 41, 90), rgb(47, 7, 67)) repeat scroll 0% 0%;
+}
+
+.breadbar {
+    background-color: #c5d9d7;
+    color: #2e4d49;
+}
+.footersection1{
+    border-bottom: 1px solid #635b69;
+}
+.adminpage{
+    background-color: #ede6e6;
+}
+.nolink{
+    text-decoration: none !important;
+}
+
+.navbarcustom {
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(211, 16, 39), rgb(234, 56, 77)) repeat scroll 0% 0%;
+}
+
+.cardwidget {
+    background-color: #ede8e8;
+}
+
+.box-shadow--6dp {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, .14), 0 1px 18px 0 rgba(0, 0, 0, .12), 0 3px 5px -1px rgba(0, 0, 0, .2)
+}
+
+.thlist {
+    background-color: #f7c9c6;
+    color: #;
+}
+
+.md-whiteframe-2dp {
+    box-shadow:  0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 1px -2px rgba(0, 0, 0, 0.12); }
+.customform {
+    background-color: #ffd9d9;
+    color: #;
+}
+.customform:hover {
+    background-color: #ffd9d9;
+    color: #;
+    outline: none;
+}
+.customform:focus {
+    background-color: #ffd9d9;
+    color: #;
+    outline: none !important;
+}
+
+.customform:focus{
+    border-color:#CCC;
+    outline:0;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    background-color: #fce8e8;
+}
+
+.btn:focus{
+    border-color:#CCC;
+    outline:0;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    background-color: #fce8e8;
+}
+.customformrow {
+    border-bottom: 1px solid #ccc2c2;
+}
+
+.modalover{
+    background-color: #f5f0f0;
+}
+.custommodal{
+    background-color: #f00;
+}
+
+
